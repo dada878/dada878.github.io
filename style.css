@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(225, 238, 224);
+    margin: 0px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: rgb(69, 87, 69);
+    padding: 20px;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.logo {
+    border-style: solid;
+    border-color: rgb(70, 122, 70);
+    border-width: 7px;
+    border-radius: 500px;
+}
+
+.description {
+    background-color: rgb(185, 207, 185);
+    padding: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 600px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    border-style: none;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.btn:hover {
+    background-color: rgb(0, 90, 0);
+}
